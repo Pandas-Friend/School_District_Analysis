@@ -41,6 +41,7 @@ Thomas High school did not change in its overall position among other schools. I
 How does replacing the ninth-grade scores affect the following:
 * Scores by school spending:
   * There was no change
+
 Old
 
 ![old_school_spending](Resources/old_school_spending.png)
@@ -51,6 +52,7 @@ New
 
 * Scores by school size:
   * There was no change
+
 Old
 
 ![school_size_old](Resources/school_size_old.png)
@@ -61,6 +63,7 @@ New
 
 * Scores by school type:
   * There was no change
+
 Old
 
 ![school_type_old](Resources/school_type_old.png)
