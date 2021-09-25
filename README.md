@@ -1,6 +1,6 @@
 # School District Analysis
 ## Overview
-The purpose of this analysis was to replace all of the 9th grade test scores at Thomas High School with Na’s because f academic dishonesty. Then I ran a new analysis on the whole school district to get a more honest analysis.
+The purpose of this analysis was to replace all of the 9th grade test scores at Thomas High School with Na’s because of academic dishonesty. Then I ran a new analysis on the whole school district to get a more honest analysis.
 ## Results
 Effects on district summary
 
